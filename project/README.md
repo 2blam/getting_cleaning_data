@@ -11,7 +11,7 @@
 ## To Run this script
 1. Download the UCI HAR Dataset  from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2. Extract the zip file in the working directory. Please DON'T make any change in the folder structure of the dataset. For example, the train folder should be located at <working directory>/UCI HAR Dataset/train/
-3. Download and run run_analysis.R to working directory
+3. Download and run run_analysis.R in working directory
 4. The tidy dataset (cleanHAR.txt) will then be created in the working directory.
 
 ## How script works?
