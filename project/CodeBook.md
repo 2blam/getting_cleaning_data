@@ -29,10 +29,13 @@ Some notation that we used in the measurement variables:
 
 - Gyro: gyroscope
 
-- Jerk: Jerk
+- Jerk: jerk signals
 
 - Gravity: gravity
 
+- Mag: magnitude 
+
+- X, Y, Z denotes the 3-axial signals
 
 
 ###The list of the variables:
