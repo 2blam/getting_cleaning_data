@@ -37,6 +37,9 @@ Some notation that we used in the measurement variables:
 
 - X, Y, Z denotes the 3-axial signals
 
+- Mean - mean
+
+- Std - standard deviation 
 
 ###The list of the variables:
 - tBodyAccMeanX 
